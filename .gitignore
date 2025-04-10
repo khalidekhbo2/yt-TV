@@ -1,1 +1,1 @@
-echo "channel_responses/" >> .gitignore
+channel_responses/
