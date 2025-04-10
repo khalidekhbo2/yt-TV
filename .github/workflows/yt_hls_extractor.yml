@@ -1,9 +1,9 @@
 name: Extract HLS from YouTube JSON
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *'  # runs hourly
+ workflow_dispatch:
+#  schedule:
+  #  - cron: '0 * * * *'  # runs hourly
 
 jobs:
   extract-hls:
